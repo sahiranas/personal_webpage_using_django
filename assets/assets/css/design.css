@@ -1,0 +1,47 @@
+.headerRow{
+    background-color: #636366;
+ 
+}
+.welcomeSection{
+    background: linear-gradient(to left, #a4a6ab -20%, #f3f4f7 57%);
+}
+body{
+    font-family: 'Times New Roman', serif;
+}
+.heading{
+    width: 100%;
+    background:#636366 ;
+    text-align: center;
+}
+.eduSection{
+    background: linear-gradient(to left, #a4a6ab -20%, #f3f4f7 57%);
+
+}
+
+.siteLink{
+    text-decoration: none; color: gray;
+}
+.projectSection{
+    background: linear-gradient(to left, #a4a6ab -20%, #f3f4f7 57%);
+
+}
+
+.contactSection{
+    background: linear-gradient(to left, #a4a6ab -20%, #f3f4f7 57%);
+
+}
+
+.gitlink{
+    text-decoration: none;
+}
+.highlight {
+    background-color: yellow;
+  }
+  .foot{width: 100%;
+    height: 6em;
+
+  }
+  
+  .shadow{
+    box-shadow: 0 2.5rem 3rem rgba(0,0,0,.15)
+  }
